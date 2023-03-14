@@ -1,5 +1,7 @@
 # GCC problem matcher
 
+# DO NOT COMMIT THIS LINE
+
 Creates annotations for warnings and errors in gcc builds.
 
 ## Inputs
