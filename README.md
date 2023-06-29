@@ -1,4 +1,7 @@
-# GCC problem matcher
+# GCC problem matcher (no longer maintained)
+
+> **Warning**
+> This repository is no longer maintained, the new upstream is: https://github.com/root-project/gcc-problem-matcher-improved
 
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Folemorud%2Fgcc-problem-matcher.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Folemorud%2Fgcc-problem-matcher?ref=badge_shield)
 
