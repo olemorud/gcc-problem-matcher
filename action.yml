@@ -1,6 +1,6 @@
-name: GCC Problem Matcher Improved
+name: GCC Problem Matcher Improved (deprecated)
 
-description: Get annotations for warnings and errors on builds using gcc
+description: new upstream: https://github.com/root-project/gcc-problem-matcher-improved
 
 author: Ole Morud
 
