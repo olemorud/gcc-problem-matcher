@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/olemorud/gcc-problem-matcher#readme",
   "dependencies": {
-    "@actions/core": "^1.10.0"
+    "@actions/core": "^1.11.1"
   }
 }
